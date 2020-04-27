@@ -1,5 +1,5 @@
 
 
 function happyHolidays(string){
-  return "Happy hilidays!"
+  return "Happy holidays!"
 }
