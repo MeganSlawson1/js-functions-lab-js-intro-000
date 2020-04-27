@@ -1,7 +1,7 @@
-let holiday = "Independence Day"
-let name = "you"
-let days = 20
-let mother = "Mother's Day"
+var holiday = "Independence Day"
+var name = "you"
+var days = 20
+var mother = "Mother's Day"
 
 function happyHolidays(string) {
  return "Happy holidays!"
