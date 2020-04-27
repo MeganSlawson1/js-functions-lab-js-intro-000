@@ -1,6 +1,6 @@
 let holiday = "Independence Day"
 let name = "you"
-let number = 20
+let days = 20
 let mother = "Mother's Day"
 
 function happyHolidays(string) {
@@ -19,6 +19,6 @@ function happyHolidaysTo(holiday,name){
 happyHolidaysTo()
 
 function holidayCountdown(mother,number){
-  return `It's ${number} days until ${mother}!`
+  return `It's ${days} days until ${mother}!`
 }
 holidayCountdown()
