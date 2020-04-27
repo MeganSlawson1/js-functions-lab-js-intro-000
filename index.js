@@ -1,6 +1,6 @@
 var holiday = "Independence Day"
 var name = "you"
-var days = 120
+var days = "120"
 var father = "Father's Day"
 
 function happyHolidays(string) {
