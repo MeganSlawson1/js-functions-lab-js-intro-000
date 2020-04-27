@@ -1,7 +1,4 @@
-var holiday = "Independence Day"
-var name = "you"
-var days = "20"
-var father = "Father's Day"
+
 
 function happyHolidays(string) {
  return "Happy holidays!"
