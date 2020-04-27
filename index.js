@@ -1,9 +1,11 @@
-var name = "Megan"
-var holiday = "Halloween"
+let holiday = "Halloween"
+let name = "Megan"
+
 function happyHolidays(string) {
  return "Happy holidays!"
 }
+happyHolidaysTo()
 
-function happyCustomHolidayTo(string) {
-  console.log ('Happy ${holiday}, ${name}')
+function happyCustomHolidayTo(holiday, name) {
+ return 'Happy ${holiday}, ${name}!'
 }
