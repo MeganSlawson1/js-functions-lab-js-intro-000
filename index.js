@@ -1,7 +1,7 @@
 var holiday = "Independence Day"
 var name = "you"
-var days = 20
-var mother = "Mother's Day"
+var days = 120
+var father = "Father's Day"
 
 function happyHolidays(string) {
  return "Happy holidays!"
